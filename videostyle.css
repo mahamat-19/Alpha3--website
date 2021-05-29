@@ -1,0 +1,48 @@
+body{background-color:#f4f4f4;}
+header{
+   width:100%;
+   background-color:white;
+   border-bottom: 3px orange solid;
+ }
+
+#KbooK{
+   font-weight:bold;
+   font-size:40px;
+   color:Orange;
+ }
+ #login {border:3px orange solid;
+         background-color:orange;
+          color:white;}
+#login a{color:white;}
+
+#subscribe {border:3px orange solid;
+         background-color:orange;
+          color:white;}
+#subscribe a{color:white;}
+
+header a {
+  text-decoration:none;
+  color:black;
+ }
+header ul{margin:0;padding:0 0 10px 0;}
+header li{list-style:none;display:inline;padding:0 20px 0 20px; margin:10px}
+
+.box-2{width:15%;
+        float:left;
+        background-color:orange;
+        padding-bottom:200px;}
+#id-1{padding:15px;height:360px ; width:768px;}
+p{padding:15px;}
+
+.box-2 a{text-decoration:none;
+         color:white;
+  }
+.box-2 li{list-style:disc;
+        line-height:40px;color:white;}
+.box-3{width:75%;
+        margin:0 70px 0 15px;
+        background-color:white;
+        float:right;
+   }
+#video{font-size: 30px;padding:10px 0 0 10px;font-weight:bold}
+.box-3 li{list-style:none;}
